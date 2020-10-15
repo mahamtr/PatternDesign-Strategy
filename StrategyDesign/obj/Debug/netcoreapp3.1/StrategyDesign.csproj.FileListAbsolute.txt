@@ -1,0 +1,13 @@
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.exe
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.deps.json
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.runtimeconfig.json
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.runtimeconfig.dev.json
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.dll
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.pdb
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.csprojAssemblyReference.cache
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.AssemblyInfo.cs
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.csproj.CoreCompileInputs.cache
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.dll
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.pdb
+C:\Users\Maai Ham\source\repos\StrategyDesign\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.genruntimeconfig.cache
